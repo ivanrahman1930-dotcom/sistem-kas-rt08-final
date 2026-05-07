@@ -46,13 +46,13 @@ import { getFirestore, doc, setDoc, onSnapshot } from 'firebase/firestore';
 // PENGATURAN DATABASE (UNTUK HOSTING BARU)
 // =====================================================================
 const manualFirebaseConfig = {
-  apiKey: 'GANTI_DENGAN_API_KEY_BARU',
-  authDomain: 'GANTI_DENGAN_AUTH_DOMAIN_BARU',
-  projectId: 'GANTI_DENGAN_PROJECT_ID_BARU',
-  storageBucket: 'GANTI_DENGAN_STORAGE_BUCKET_BARU',
-  messagingSenderId: 'GANTI_DENGAN_SENDER_ID_BARU',
-  appId: 'GANTI_DENGAN_APP_ID_BARU',
-  measurementId: 'GANTI_DENGAN_MEASUREMENT_ID_BARU',
+  apiKey: "AIzaSyAq7PnXzh1W-WCSckZaUlI0Yhy4wnEXYj0",
+  authDomain: "kas-rt-08-villa-permata.firebaseapp.com",
+  projectId: "kas-rt-08-villa-permata",
+  storageBucket: "kas-rt-08-villa-permata.firebasestorage.app",
+  messagingSenderId: "658131362470",
+  appId: "1:658131362470:web:105c7ca23ef1a51f6bca67",
+  measurementId: "G-42QK5X1N8P"
 };
 
 const envConfig =
